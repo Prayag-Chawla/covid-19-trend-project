@@ -15,3 +15,5 @@ In this project, we have analysed the statistics for COVID cases on the paramete
 -  pandas
 -  numpy 
 -  sklearn
+
+# output![covid](https://user-images.githubusercontent.com/92213377/215007974-b86981f9-089d-4d43-b4c9-5e23cae953fe.png)
